@@ -1,0 +1,19 @@
+body {
+  background: #fff;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.wrapperProject {
+  width: 980px;
+  height: 600px;
+  .btn{
+    background: #000;
+    width: 100px;
+    height: 20px;
+  }
+}
